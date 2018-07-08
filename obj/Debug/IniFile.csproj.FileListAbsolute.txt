@@ -1,0 +1,20 @@
+D:\Arun\IniFile\IniFile\obj\Debug\IniFile.Form1.resources
+D:\Arun\IniFile\IniFile\obj\Debug\IniFile.Properties.Resources.resources
+D:\Arun\IniFile\IniFile\obj\Debug\IniFile.csproj.GenerateResource.cache
+D:\Arun\IniFile\IniFile\obj\Debug\IniFile.csproj.CoreCompileInputs.cache
+D:\Arun\IniFile\IniFile\obj\Debug\IniFile.csprojAssemblyReference.cache
+D:\Arun\IniFile\IniFile\bin\Debug\IniFile.exe.config
+D:\Arun\IniFile\IniFile\bin\Debug\IniFile.exe
+D:\Arun\IniFile\IniFile\bin\Debug\IniFile.pdb
+D:\Arun\IniFile\IniFile\obj\Debug\IniFile.exe
+D:\Arun\IniFile\IniFile\obj\Debug\IniFile.pdb
+F:\Intellect Softwares\IniFile\IniFile\bin\Debug\IniFile.exe.config
+F:\Intellect Softwares\IniFile\IniFile\bin\Debug\IniFile.exe
+F:\Intellect Softwares\IniFile\IniFile\bin\Debug\IniFile.pdb
+F:\Intellect Softwares\IniFile\IniFile\obj\Debug\IniFile.csprojAssemblyReference.cache
+F:\Intellect Softwares\IniFile\IniFile\obj\Debug\IniFile.Form1.resources
+F:\Intellect Softwares\IniFile\IniFile\obj\Debug\IniFile.Properties.Resources.resources
+F:\Intellect Softwares\IniFile\IniFile\obj\Debug\IniFile.csproj.GenerateResource.cache
+F:\Intellect Softwares\IniFile\IniFile\obj\Debug\IniFile.csproj.CoreCompileInputs.cache
+F:\Intellect Softwares\IniFile\IniFile\obj\Debug\IniFile.exe
+F:\Intellect Softwares\IniFile\IniFile\obj\Debug\IniFile.pdb
